@@ -1,0 +1,119 @@
+﻿
+h2 {
+    background-color: aliceblue;
+}
+
+.some-spacing {
+    margin-bottom: 1em;
+}
+
+.section {
+    overflow: visible;
+    display: block;
+    clear: both;
+    margin: 0 0 1.0em 0;
+    overflow: auto;
+}
+.item {
+    display: inline;
+    float: left;
+    margin-right: 1.0em;
+    margin-bottom: 1.0em;
+}
+
+.user-property {
+    min-width: 120px;
+    display: inline-block;
+    border-radius: 0.5em;
+    border: 2px solid lightgrey;
+    padding: 25px;
+    margin-bottom: 1em;
+    margin-right: 1em;
+}
+
+.user-property:hover {
+    border: 2px solid black;
+}
+
+#fname {
+    background-color: lightyellow;
+}
+
+#lname {
+    background-color: lightblue;
+}
+
+#userid {
+    background-color: lightcoral;
+}
+
+#password {
+    background-color: lightgreen;
+}
+
+button, input[type=submit], input[type=button] {
+    cursor: pointer;
+    padding: 12px 30px 12px 30px;
+    background-color: #E4E4E4;
+    color: black;
+    border: 1px solid white;
+}
+
+.button-action {
+    background-color: #4CAF50;
+    color: white;
+}
+.button-action:hover {
+    background-color: #2f6a31;
+}
+.button-cancel {
+    background-color: #E4E4E4;
+    color: black;
+}
+.button-cancel:hover {
+    background-color: #555;
+    color: white;
+}
+.button-alert {
+    background-color: #FF0000;
+    color: white;
+}
+.button-alert:hover {
+    background-color: #b30000;
+    color: white;
+}
+.phone-area-code {
+    width: 2.5em;
+}
+
+.phone-prefix {
+    width: 2.5em;
+}
+
+.phone-suffix {
+    width: 3em;
+}
+
+.data-submitted {
+    display: inline-block;
+    padding: 1em;
+    border: 1px solid black;
+    background-color: lightgreen;
+}
+#card-box {
+    background-color: #f7f7f7;
+    display: inline-block;
+    padding: 1em;
+    margin: 1em;
+    border: 1px solid grey;
+    text-align: center;
+    -webkit-border-radius: 0.3em;
+    -moz-border-radius: 0.3em;
+    border-radius: 0.3em;
+}
+#card-box:hover {
+    background-color: aliceblue;
+    border: 1px solid black;
+}
+
+

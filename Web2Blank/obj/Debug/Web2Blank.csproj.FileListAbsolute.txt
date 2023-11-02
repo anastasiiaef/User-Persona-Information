@@ -1,0 +1,144 @@
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\Web2Blank.dll.config
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\Web2Blank.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\Web2Blank.pdb
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\csc.exe
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\csc.exe.config
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\csc.rsp
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\csi.exe
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\csi.exe.config
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\csi.rsp
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.AppContext.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Console.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.IO.Compression.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Net.Http.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Net.Sockets.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.ValueTuple.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\vbc.exe
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\vbc.exe.config
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\vbc.rsp
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\VBCSCompiler.exe
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Helpers.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Mvc.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Razor.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Webpages.Deployment.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Webpages.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Webpages.Razor.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Razor.xml
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Webpages.xml
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Webpages.Deployment.xml
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Webpages.Razor.xml
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Helpers.xml
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Mvc.xml
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\obj\Debug\Web2Blank.csprojAssemblyReference.cache
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\obj\Debug\Web2Blank.csproj.CoreCompileInputs.cache
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\obj\Debug\Web2Blank.csproj.CopyComplete
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\obj\Debug\Web2Blank.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\WEB 2\Web2Blank\Web2Blank\obj\Debug\Web2Blank.pdb
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\Web2Blank.dll.config
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\Web2Blank.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\Web2Blank.pdb
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\csc.exe
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\csc.exe.config
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\csc.rsp
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\csi.exe
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\csi.exe.config
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\csi.rsp
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.AppContext.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Console.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.IO.Compression.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Net.Http.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Net.Sockets.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.ValueTuple.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\vbc.exe
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\vbc.exe.config
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\vbc.rsp
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\VBCSCompiler.exe
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Helpers.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Mvc.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Razor.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Webpages.Deployment.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Webpages.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Webpages.Razor.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Razor.xml
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Webpages.xml
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Webpages.Deployment.xml
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Webpages.Razor.xml
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Helpers.xml
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\System.Web.Mvc.xml
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\obj\Debug\Web2Blank.csprojAssemblyReference.cache
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\obj\Debug\Web2Blank.csproj.CoreCompileInputs.cache
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\obj\Debug\Web2Blank.csproj.CopyComplete
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\obj\Debug\Web2Blank.dll
+C:\Users\anastasiiaefimova\OneDrive - Cincinnati State Technical and Community College\Desktop\Cincinnati State\WEB 2\Web2Blank\Web2Blank\obj\Debug\Web2Blank.pdb

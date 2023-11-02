@@ -1,0 +1,41 @@
+﻿
+@{
+	ViewBag.Title = "Index";
+}
+<h2>@ViewBag.Title</h2>
+
+<p>This is the Index view.</p>
+
+<div class="some-spacing">
+	<div>@Html.ActionLink("Go to Family", "Family", "Hello")</div>
+	<div>@Html.ActionLink("Go to Friends", "Friends", "Hello")</div>
+</div>
+
+@using (Html.BeginForm()) {
+
+	<div class="some-spacing">
+		<div>What's your favorite food?</div>
+		<div>@Html.TextBox("txtFav1")</div>
+	</div>
+
+	<div class="some-spacing">
+		<div>@Html.CheckBox("chkClickMe")<label for="chkClickMe">Click me, please</label></div>
+	</div>
+
+<div class="some-spacing">
+	<button id="btnSave" name="btnSubmit" value="save">Save</button>
+	<button id="btnDelete" name="btnSubmit" value="delete">Delete</button>
+	<button id="btnRedirect" name="btnSubmit" value="redirect">Redirect</button>
+	<button id="btnClose" name="btnSubmit" value="close">Close</button>
+
+</div>
+}
+
+@if (ViewData["ButtonPressed"] != null && (string)ViewData["ButtonPressed"] != string.Empty) {
+	<div class="some-spacing">@ViewData["ButtonPressed"]</div>
+}
+
+@if (ViewData["FavoriteFood"] != null && (string)ViewData["FavoriteFood"] != string.Empty) {
+	<div class="some-spasing">I like @ViewData["FavoriteFood"] too!!!</div>
+	}
+

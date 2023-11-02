@@ -1,0 +1,23 @@
+﻿@model Web2Blank.Models.User
+
+<div id="card-box">
+	<div class="some-spacing"><i class="fad fa-user-alt fa-4x"></i></div>
+	<div>
+		@Model.FirstName @Model.LastName
+	</div>
+	@if (Model.CellPhone != null) {
+		<div>
+			(@Model.CellPhone.AreaCode) @Model.CellPhone.Prefix-@Model.CellPhone.Suffix)
+		</div>
+	}
+	else if (Model.HomePhone != null) {
+		<div>
+			(@Model.HomePhone.AreaCode) @Model.HomePhone.Prefix-@Model.HomePhone.Suffix
+		</div>
+	}
+	else if (Model.WorkPhone != null) {
+		<div>
+			(@Model.WorkPhone.AreaCode) @Model.WorkPhone.Prefix-@Model.WorkPhone.Suffix
+		</div>
+	}
+	</div>

@@ -1,0 +1,19 @@
+﻿
+@{
+	ViewBag.Title = "Index";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<p>Enter an ID. </p>
+
+@using (Html.BeginForm()) {
+	<div class="some-spacing">@Html.DropDownList("lstIDs", (IEnumerable<SelectListItem>)ViewData["IDList"])</div>
+	<div class="some-spacing">
+		<button id="btnSetID" name="btnSubmit" value="set">Set ID</button>
+		<button id="btnShowAddress" name="btnSubmit" value="showaddress">Show Address</button>
+	</div>
+	}
+
+
+
