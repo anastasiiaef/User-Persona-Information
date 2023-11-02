@@ -1,0 +1,46 @@
+﻿@model Web2Blank.Models.User
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>The current date and time is @DateTime.Now.</p>
+<p>This is another p tag!</p>
+
+<div class="section">
+    <div class="item">
+        <div>@Html.LabelFor(model => model.FirstName) </div>
+        <div>@Html.TextBoxFor(model => model.FirstName)</div>
+    </div>
+
+    <div class="item">
+        <div>@Html.LabelFor(model => model.LastName) </div>
+        <div>@Html.TextBoxFor(model => model.LastName)</div>
+    </div>
+
+    <div class="item">
+        <div>@Html.LabelFor(model => model.UserID) </div>
+        <div>@Html.TextBoxFor(model => model.UserID)</div>
+    </div>
+
+    <div class="item">
+        <div>@Html.LabelFor(model => model.Password) </div>
+        <div>@Html.TextBoxFor(model => model.Password)</div>
+    </div>
+</div>
+
+<div id="fname" class="user-property">@Model.FirstName</div>
+<div id="lname" class="user-property">@Model.LastName</div>
+<div id="userid" class="user-property">@Model.UserID</div>
+<div id="password" class="user-property">@Model.Password</div>
+
+<div>
+    <button class="button-action">My Action Button</button>
+    <button class="button-cancel">Cancel here</button>
+    <button class="button-alert">Alert Button</button>
+
+    <label>Label</label>
+    <span>My Span</span>
+
+</div>

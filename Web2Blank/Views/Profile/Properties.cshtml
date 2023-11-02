@@ -1,0 +1,146 @@
+﻿@model Web2Blank.Models.User
+@{
+	ViewBag.Title = "Properties";
+}
+<h2>@ViewBag.Title</h2>
+
+<p>This is the properties view.</p>
+
+@if (ViewData["DataSubmitted"] != null && ViewData["DataSubmitted"].ToString() =="true") {
+	<div class="some-spacing data-submitted">Data submitted successfully.</div>
+}
+
+@using (Html.BeginForm()) {
+
+	<div class="some-spacing">
+		<button id="btnSubmit1" name="btnSubmit" value="submit">Submit</button>
+		<button id="btnHome1" name="btnSubmit" value="home">Home</button>
+	</div>
+
+	@Html.Partial("Card", Model)
+
+	<div class="some-spacing">
+		<div>@Html.LabelFor(m => Model.FirstName)</div>
+		<div>@Html.TextBoxFor(m => Model.FirstName, new { @autofocus = "autofocus" }) </div>
+	</div>
+
+	<div class="some-spacing">
+		<div>@Html.LabelFor(m => Model.LastName)</div>
+		<div>@Html.TextBoxFor(m => Model.LastName) </div>
+	</div>
+
+	<div class="some-spacing">
+		<div>@Html.LabelFor(m => Model.UserID)</div>
+		<div>@Html.TextBoxFor(m => Model.UserID) </div>
+	</div>
+
+	<div class="some-spacing">
+		<div>@Html.LabelFor(m => Model.Password)</div>
+		<div>@Html.TextBoxFor(m => Model.Password) </div>
+	</div>
+
+	if (Model.HomeAddress != null) {
+		<h3>Home Address</h3>
+		<div class="some-spacing">
+			<div>@Html.LabelFor(m => Model.HomeAddress.Address1)</div>
+			<div>@Html.TextBoxFor(m => Model.HomeAddress.Address1)</div>
+		</div>
+
+		<div class="some-spacing">
+			<div>@Html.LabelFor(m => Model.HomeAddress.Address2)</div>
+			<div>@Html.TextBoxFor(m => Model.HomeAddress.Address2)</div>
+		</div>
+
+		<div class="some-spacing">
+			<div>@Html.LabelFor(m => Model.HomeAddress.City)</div>
+			<div>@Html.TextBoxFor(m => Model.HomeAddress.City)</div>
+		</div>
+
+		<div class="some-spacing">
+			<div>@Html.LabelFor(m => Model.HomeAddress.State)</div>
+			<div>@Html.TextBoxFor(m => Model.HomeAddress.State)</div>
+		</div>
+
+		<div class="some-spacing">
+			<div>@Html.LabelFor(m => Model.HomeAddress.Zip)</div>
+			<div>@Html.TextBoxFor(m => Model.HomeAddress.Zip)</div>
+		</div>
+	}
+
+	if (Model.Home2Address != null) {
+		<h3>Home 2 Address</h3>
+		<div class="some-spacing">
+			<div>@Html.LabelFor(m => Model.Home2Address.Address1)</div>
+			<div>@Html.TextBoxFor(m => Model.Home2Address.Address1)</div>
+		</div>
+
+		<div class="some-spacing">
+			<div>@Html.LabelFor(m => Model.Home2Address.Address2)</div>
+			<div>@Html.TextBoxFor(m => Model.Home2Address.Address2)</div>
+		</div>
+
+		<div class="some-spacing">
+			<div>@Html.LabelFor(m => Model.Home2Address.City)</div>
+			<div>@Html.TextBoxFor(m => Model.Home2Address.City)</div>
+		</div>
+
+		<div class="some-spacing">
+			<div>@Html.LabelFor(m => Model.Home2Address.State)</div>
+			<div>@Html.TextBoxFor(m => Model.Home2Address.State)</div>
+		</div>
+
+		<div class="some-spacing">
+			<div>@Html.LabelFor(m => Model.Home2Address.Zip)</div>
+			<div>@Html.TextBoxFor(m => Model.Home2Address.Zip)</div>
+		</div>
+	}
+
+	if (Model.WorkAddress != null) {
+		<h3>Work Address</h3>
+		<div class="some-spacing">
+			<div>@Html.LabelFor(m => Model.WorkAddress.Address1)</div>
+			<div>@Html.TextBoxFor(m => Model.WorkAddress.Address1)</div>
+		</div>
+
+		<div class="some-spacing">
+			<div>@Html.LabelFor(m => Model.WorkAddress.Address2)</div>
+			<div>@Html.TextBoxFor(m => Model.WorkAddress.Address2)</div>
+		</div>
+
+		<div class="some-spacing">
+			<div>@Html.LabelFor(m => Model.WorkAddress.City)</div>
+			<div>@Html.TextBoxFor(m => Model.WorkAddress.City)</div>
+		</div>
+
+		<div class="some-spacing">
+			<div>@Html.LabelFor(m => Model.WorkAddress.State)</div>
+			<div>@Html.TextBoxFor(m => Model.WorkAddress.State)</div>
+		</div>
+
+		<div class="some-spacing">
+			<div>@Html.LabelFor(m => Model.WorkAddress.Zip)</div>
+			<div>@Html.TextBoxFor(m => Model.WorkAddress.Zip)</div>
+		</div>
+	}
+
+	<div class="some-spacing">
+		<div><label for="CellPhone_AreaCode">Cell phone</label></div>
+		<div>(@Html.TextBoxFor(m => Model.CellPhone.AreaCode, new { @class = "phone-area-code" })) @Html.TextBoxFor(m => Model.CellPhone.Prefix, new { @class = "phone-prefix" }) - @Html.TextBoxFor(m => Model.CellPhone.Suffix, new { @class = "phone-suffix" })</div>
+	</div>
+
+	<div class="some-spacing">
+		<div><label for="WorkPhone">Cell phone</label></div>
+		<div>(@Html.TextBoxFor(m => Model.WorkPhone.AreaCode, new { @class = "phone-area-code" })) @Html.TextBoxFor(m => Model.WorkPhone.Prefix, new { @class = "phone-prefix" }) - @Html.TextBoxFor(m => Model.WorkPhone.Suffix, new { @class = "phone-suffix" })</div>
+	</div>
+
+	<div class="some-spacing">
+		<div><label for="HomePhone">Cell phone</label></div>
+		<div>(@Html.TextBoxFor(m => Model.HomePhone.AreaCode, new { @class = "phone-area-code" })) @Html.TextBoxFor(m => Model.HomePhone.Prefix, new { @class = "phone-prefix" }) - @Html.TextBoxFor(m => Model.HomePhone.Suffix, new { @class = "phone-suffix" })</div>
+	</div>
+
+	<div class="some-spacing">
+		<div><label for="EmergencyPhone">Cell phone</label></div>
+		<div>(@Html.TextBoxFor(m => Model.EmergencyPhone.AreaCode, new { @class = "phone-area-code" })) @Html.TextBoxFor(m => Model.EmergencyPhone.Prefix, new { @class = "phone-prefix" }) - @Html.TextBoxFor(m => Model.EmergencyPhone.Suffix, new { @class = "phone-suffix" })</div>
+	</div>
+}
+

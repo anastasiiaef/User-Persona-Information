@@ -1,0 +1,73 @@
+﻿
+@{
+    ViewBag.Title = "HTML Stuff";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<p>Yeah, another paragraph section. Beckout the cool HTML tips!</p>
+
+<div class="some-spacing">
+    <div>DateTime - blank</div>
+	<div>
+		<input id="txtDateTime1" type="datetime-local">
+        @Html.TextBox("txtDateTime2", "", new { type = "datetime-local"})
+	</div>
+</div>
+
+<div class="some-spacing">
+	<div>DateTime with value</div>
+	<div>
+		<input id="txtDateTime3" type="datetime-local" value="2020-02-28T08:30">
+		@Html.TextBox("txtDateTime4", "2020-02-28T08:30", new { type = "datetime-local" })
+	</div>
+</div>
+
+<div class="some-spacing">
+	<div>Month</div>
+	<div>
+		<input id="txtMonth1" type="month">
+		@Html.TextBox("txtMonth2", "2021-02", new { type = "month" })
+	</div>
+</div>
+
+<div class="some-spacing">
+	<div>Spell checker</div>
+	<div>
+		<input id="txtSpell1" type="text" spellcheck="true" style="width: 200px; "value="Is this corect?">
+		@Html.TextBox("txtSpell2", "I dont think so.", new { @spellcheck = "true" })
+	</div>
+</div>
+
+<div class="some-spacing">
+	<div>Spell checker - Text Area</div>
+	<div>
+		<textarea id="txtArea1" rows="5" spellcheck="true" style="width: 500px; ">This is more text that has no misspellings. My hight school English teachwe would be proud.</textarea>
+		@Html.TextArea("txtArea2", "This is a learger text area with seviral missspellings. This is more text has no misspellings. My hight school teacher would be proud.", new { @spellcheck = "true", rows="5", style="width: 500px;" })
+	</div>
+</div>
+
+<div class="some-spacing">
+	<div>Color</div>
+	<div>
+		<input id="txtColor1" type="color" value="#FF0000">
+		@Html.TextBox("txtColor2", "#0000FF", new { type = "color" })
+	</div>
+</div>
+
+<div class="some-spacing">
+	<div>Number Range</div>
+	<div>
+		<input id="txtNum1" type="number" min="10" max="100" step="10">
+		@Html.TextBox("txtNum2", "", new { type = "number", @min ="1", @max="100", @step="0.25" })
+	</div>
+</div>
+
+<div class="some-spacing">
+	<div>Placeholder</div>
+	<div>
+		<input id="txtPlaceholder1" placeholder="(###) ###-####">
+		@Html.TextBox("txtPlaceholder2", "", new { placeholder = "Enter your first name" })
+	</div>
+</div>
+

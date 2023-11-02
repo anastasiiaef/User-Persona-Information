@@ -1,0 +1,19 @@
+﻿
+@{
+	ViewBag.Title = "Sunday";
+}
+<h2>@ViewBag.Title</h2>
+
+<p>This is Sunday view.</p>
+
+@using (Html.BeginForm()) {
+
+	<div class="some-spacing">
+		<button id="btnSubmit" name="btnSubmit" value="submit">Home</button>
+	</div>
+}
+
+@if (ViewData["ButtonPressed"] != null && (string)ViewData["ButtonPressed"] != string.Empty) {
+	<div class="some-spacing">@ViewData["ButtonPressed"]</div>
+}
+
